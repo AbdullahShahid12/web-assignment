@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/web-assignment/static/css/main.b40675b8.chunk.css",
+    "main.js": "/web-assignment/static/js/main.5efc5d1d.chunk.js",
+    "main.js.map": "/web-assignment/static/js/main.5efc5d1d.chunk.js.map",
+    "runtime-main.js": "/web-assignment/static/js/runtime-main.1254ea16.js",
+    "runtime-main.js.map": "/web-assignment/static/js/runtime-main.1254ea16.js.map",
+    "static/css/2.b532b5aa.chunk.css": "/web-assignment/static/css/2.b532b5aa.chunk.css",
+    "static/js/2.615aed28.chunk.js": "/web-assignment/static/js/2.615aed28.chunk.js",
+    "static/js/2.615aed28.chunk.js.map": "/web-assignment/static/js/2.615aed28.chunk.js.map",
+    "static/js/3.ba0cb24e.chunk.js": "/web-assignment/static/js/3.ba0cb24e.chunk.js",
+    "static/js/3.ba0cb24e.chunk.js.map": "/web-assignment/static/js/3.ba0cb24e.chunk.js.map",
+    "index.html": "/web-assignment/index.html",
+    "static/css/2.b532b5aa.chunk.css.map": "/web-assignment/static/css/2.b532b5aa.chunk.css.map",
+    "static/css/main.b40675b8.chunk.css.map": "/web-assignment/static/css/main.b40675b8.chunk.css.map",
+    "static/js/2.615aed28.chunk.js.LICENSE.txt": "/web-assignment/static/js/2.615aed28.chunk.js.LICENSE.txt",
+    "static/media/agri.1270d312.jpg": "/web-assignment/static/media/agri.1270d312.jpg",
+    "static/media/bg.256879e7.jpg": "/web-assignment/static/media/bg.256879e7.jpg",
+    "static/media/boe.8a5c3ee7.jpg": "/web-assignment/static/media/boe.8a5c3ee7.jpg",
+    "static/media/cond.f55a2ce8.jpg": "/web-assignment/static/media/cond.f55a2ce8.jpg",
+    "static/media/ending.8c768d1b.jpg": "/web-assignment/static/media/ending.8c768d1b.jpg",
+    "static/media/joud.75d8f472.jpg": "/web-assignment/static/media/joud.75d8f472.jpg",
+    "static/media/logo.6ce24c58.svg": "/web-assignment/static/media/logo.6ce24c58.svg",
+    "static/media/micro.3f33e388.jpg": "/web-assignment/static/media/micro.3f33e388.jpg",
+    "static/media/nin.2895af93.jpg": "/web-assignment/static/media/nin.2895af93.jpg",
+    "static/media/palle.6b205a4f.jpg": "/web-assignment/static/media/palle.6b205a4f.jpg",
+    "static/media/time.4b327317.jpg": "/web-assignment/static/media/time.4b327317.jpg",
+    "static/media/yam.085414b3.jpg": "/web-assignment/static/media/yam.085414b3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1254ea16.js",
+    "static/css/2.b532b5aa.chunk.css",
+    "static/js/2.615aed28.chunk.js",
+    "static/css/main.b40675b8.chunk.css",
+    "static/js/main.5efc5d1d.chunk.js"
+  ]
+}
