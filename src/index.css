@@ -1,0 +1,200 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.main {
+  min-height: 700px;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.logo {
+  margin-top: 7%;
+  width: 45%;
+  height: auto;
+}
+.main h1 {
+  color: white;
+}
+.main h5 {
+  color: white;
+}
+.aboutMain p {
+  font-size: 150%;
+  text-align: center;
+  line-height: 38px;
+  padding: 0 12%;
+  color: #247ba0;
+}
+.expertise {
+  font-family: Lato, "Helvetica Neue", Arial, Helvetica, sans-serif;
+  text-size-adjust: 100%;
+  background-color: #247ba0;
+  color: #fff;
+  padding: 0 7%;
+}
+.expertise p {
+  font-size: 150%;
+  text-align: center;
+  line-height: 38px;
+  display: block;
+}
+.expertise h2 {
+  padding: 1em;
+  font-weight: bold;
+}
+.expertise ul {
+  display: block;
+  list-style-type: circle;
+  padding-left: 12%;
+  font-size: 150%;
+  line-height: 200%;
+  text-align: left;
+}
+.experience h2 {
+  font-size: 300%;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+  text-align: center;
+  color: #247ba0;
+  font-weight: bold;
+}
+.experience p {
+  font-size: 150%;
+  text-align: center;
+  line-height: 38px;
+  color: #247ba0;
+  padding: 0 18%;
+}
+.carousel {
+  padding: 2% 14%;
+}
+.tweet h2 {
+  background-color: #247ba0;
+  color: #fff;
+  font-size: 300%;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+  text-align: center;
+  padding-top: 4%;
+  font-weight: bold;
+}
+.trust h2 {
+  color: #247ba0;
+  font-weight: bold;
+  font-size: 300%;
+  font-family: Lato, "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+.tr {
+  padding: 2% 14%;
+}
+.tr img {
+  padding: 0 !important;
+  border: none !important;
+  opacity: 0.6;
+  transition: 0.3s;
+}
+.tr img:hover {
+  opacity: 1;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-top: -5%;
+}
+.testimonials {
+  font-family: Lato, "Helvetica Neue", Arial, Helvetica, sans-serif;
+  text-size-adjust: 100%;
+  background-color: #247ba0;
+  color: #fff;
+  padding: 0 7%;
+}
+.testimonials h2 {
+  font-size: 300%;
+  padding: 5% 0;
+  font-weight: bold;
+}
+.testimonials p {
+  line-height: 150%;
+  text-align: left;
+  margin: 0 1em;
+  white-space: normal;
+  font-style: italic;
+  font-size: 160%;
+}
+.testi {
+  padding: 0 8%;
+}
+.testimonials h4 {
+  display: block;
+  font-size: 100%;
+  margin-block-start: 1.33em;
+  margin-block-end: 1.33em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  text-align: right;
+}
+.contact h2 {
+  color: #247ba0;
+  font-weight: bold;
+  font-size: 300%;
+  font-family: Lato, "Helvetica Neue", Arial, Helvetica, sans-serif;
+  padding: 0 25%;
+}
+.contact {
+  padding: 10% 0;
+}
+.form {
+  border-width: 3px;
+  color: #247ba0;
+  padding: 0 25%;
+}
+.con {
+  align-self: right;
+  align-content: right;
+  color: black;
+}
+.update {
+  background-color: #247ba0;
+}
+.update h2 {
+  font-size: 300%;
+  padding: 5% 0;
+  font-weight: bold;
+  color: white;
+}
+.update {
+  padding: 0 30%;
+}
+.foot p {
+  color: #247ba0;
+}
+.foot {
+  padding: 3% 0;
+}
+.ending {
+  min-height: 700px;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.tweet {
+  background-color: #247ba0;
+  font-family: Lato, "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+.tweet row {
+  max-height: 30px;
+}
+.update TextField input {
+  background-color: white;
+}
+.update InputProps {
+  background-color: white;
+}
